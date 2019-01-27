@@ -1,0 +1,14 @@
+C:\Users\Sefa\Desktop\starterkit\ApplicationCore\bin\Debug\netcoreapp2.2\ApplicationCore.deps.json
+C:\Users\Sefa\Desktop\starterkit\ApplicationCore\bin\Debug\netcoreapp2.2\ApplicationCore.runtimeconfig.json
+C:\Users\Sefa\Desktop\starterkit\ApplicationCore\bin\Debug\netcoreapp2.2\ApplicationCore.runtimeconfig.dev.json
+C:\Users\Sefa\Desktop\starterkit\ApplicationCore\bin\Debug\netcoreapp2.2\ApplicationCore.dll
+C:\Users\Sefa\Desktop\starterkit\ApplicationCore\obj\Debug\netcoreapp2.2\ApplicationCore.csprojAssemblyReference.cache
+C:\Users\Sefa\Desktop\starterkit\ApplicationCore\obj\Debug\netcoreapp2.2\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Sefa\Desktop\starterkit\ApplicationCore\obj\Debug\netcoreapp2.2\ApplicationCore.RazorAssemblyInfo.cache
+C:\Users\Sefa\Desktop\starterkit\ApplicationCore\obj\Debug\netcoreapp2.2\ApplicationCore.RazorAssemblyInfo.cs
+C:\Users\Sefa\Desktop\starterkit\ApplicationCore\obj\Debug\netcoreapp2.2\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Sefa\Desktop\starterkit\ApplicationCore\obj\Debug\netcoreapp2.2\ApplicationCore.AssemblyInfo.cs
+C:\Users\Sefa\Desktop\starterkit\ApplicationCore\obj\Debug\netcoreapp2.2\ApplicationCore.RazorTargetAssemblyInfo.cache
+C:\Users\Sefa\Desktop\starterkit\ApplicationCore\bin\Debug\netcoreapp2.2\ApplicationCore.pdb
+C:\Users\Sefa\Desktop\starterkit\ApplicationCore\obj\Debug\netcoreapp2.2\ApplicationCore.dll
+C:\Users\Sefa\Desktop\starterkit\ApplicationCore\obj\Debug\netcoreapp2.2\ApplicationCore.pdb

@@ -1,0 +1,17 @@
+C:\Users\Sefa\Desktop\starterkit\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.csprojAssemblyReference.cache
+C:\Users\Sefa\Desktop\starterkit\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Sefa\Desktop\starterkit\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.RazorAssemblyInfo.cache
+C:\Users\Sefa\Desktop\starterkit\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.RazorAssemblyInfo.cs
+C:\Users\Sefa\Desktop\starterkit\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Sefa\Desktop\starterkit\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.AssemblyInfo.cs
+C:\Users\Sefa\Desktop\starterkit\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.deps.json
+C:\Users\Sefa\Desktop\starterkit\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.runtimeconfig.json
+C:\Users\Sefa\Desktop\starterkit\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.runtimeconfig.dev.json
+C:\Users\Sefa\Desktop\starterkit\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.dll
+C:\Users\Sefa\Desktop\starterkit\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.pdb
+C:\Users\Sefa\Desktop\starterkit\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.RazorTargetAssemblyInfo.cache
+C:\Users\Sefa\Desktop\starterkit\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.dll
+C:\Users\Sefa\Desktop\starterkit\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.pdb
+C:\Users\Sefa\Desktop\starterkit\Infrastructure\bin\Debug\netcoreapp2.2\ApplicationCore.dll
+C:\Users\Sefa\Desktop\starterkit\Infrastructure\bin\Debug\netcoreapp2.2\ApplicationCore.pdb
+C:\Users\Sefa\Desktop\starterkit\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.csproj.CopyComplete
